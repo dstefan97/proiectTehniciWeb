@@ -1,0 +1,139 @@
+{
+  "info": [
+    {
+      "oras": "Bucuresti",
+      "companie": "Google",
+      "pozitie": "Senior Software Developer",
+      "vechime": 7,
+      "salariu": 10000,
+      "descriere": "JAVA",
+      "id": 1
+    },
+    {
+      "oras": "Cluj",
+      "companie": "IBM",
+      "pozitie": "Software Developer",
+      "vechime": 3,
+      "salariu": 6000,
+      "descriere": "C++",
+      "id": 2
+    },
+    {
+      "oras": "Brasov",
+      "companie": "Ubisoft",
+      "pozitie": "Game Tester",
+      "vechime": 1,
+      "salariu": 1000,
+      "descriere": "",
+      "id": 3
+    },
+    {
+      "oras": "Bucuresti",
+      "companie": "Endava",
+      "pozitie": "Software Developer",
+      "vechime": 5,
+      "salariu": 6000,
+      "descriere": "C#",
+      "id": 4
+    },
+    {
+      "oras": "Bucursti",
+      "companie": "IBM",
+      "pozitie": "Junior Software Developer",
+      "vechime": "1",
+      "salariu": "2500",
+      "descriere": "JAVA",
+      "id": 5
+    },
+    {
+      "oras": "Bucuresti",
+      "companie": "Microsoft",
+      "pozitie": "Tehnical Suport",
+      "vechime": "3",
+      "salariu": "6000",
+      "descriere": "",
+      "id": 6
+    },
+    {
+      "oras": "Bucuresti",
+      "companie": "Metro Systems",
+      "pozitie": "Software Developer",
+      "vechime": "3",
+      "salariu": "6500",
+      "descriere": "JAVA",
+      "id": 7
+    },
+    {
+      "oras": "Iasi",
+      "companie": "Blizzard",
+      "pozitie": "Junior Software Dev",
+      "vechime": "2",
+      "salariu": "5000",
+      "descriere": "OpenGL",
+      "id": 8
+    },
+    {
+      "oras": "Cluj",
+      "companie": "HP",
+      "pozitie": "Software Developer",
+      "vechime": "3",
+      "salariu": "5200",
+      "descriere": "C#",
+      "id": 9
+    },
+    {
+      "oras": "Timisioara",
+      "companie": "Amazon",
+      "pozitie": "Sistem Admin",
+      "vechime": "3",
+      "salariu": "4500",
+      "descriere": "CCNA",
+      "id": 10
+    },
+    {
+      "oras": "Constanta",
+      "companie": "Ubisoft",
+      "pozitie": "Game Tester",
+      "vechime": "2",
+      "salariu": "3000",
+      "descriere": "OpenGL",
+      "id": 11
+    },
+    {
+      "oras": "Bucuresti",
+      "companie": "Endava",
+      "pozitie": "Senior Software Developer",
+      "vechime": "12",
+      "salariu": "13500",
+      "descriere": "JAVA",
+      "id": 12
+    },
+    {
+      "oras": "Timisoara",
+      "companie": "Accenture",
+      "pozitie": "IT Manager",
+      "vechime": "7",
+      "salariu": "6000",
+      "descriere": "",
+      "id": 13
+    },
+    {
+      "oras": "Bucuresti",
+      "companie": "Gameloft",
+      "pozitie": "UI Designer",
+      "vechime": "3",
+      "salariu": "5600",
+      "descriere": "",
+      "id": 14
+    },
+    {
+      "oras": "Bucuresti",
+      "companie": "Amazon",
+      "pozitie": "Cloud Developer",
+      "vechime": "5",
+      "salariu": "12000",
+      "descriere": "AWS",
+      "id": 15
+    }
+  ]
+}
